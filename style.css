@@ -1,0 +1,21 @@
+h2, h4{
+    color: rgb(1, 42, 78);
+}
+
+.form-control, .btn{
+    border-radius: 45px;
+}
+
+.link-underline{
+    text-decoration: none;
+    color: rgb(1, 42, 78);
+    font-weight: bold;
+}
+
+.link-underline-light{
+    color: rgb(1, 42, 78);
+}
+
+.btn-outline-secondary{
+    margin-left: 25px ;
+}
